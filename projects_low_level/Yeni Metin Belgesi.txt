@@ -1,0 +1,18 @@
+Python Projects with Source Code
+Python Projects For Beginners:
+If you’re a newbie to Python where you’ve just learned lists, tuples, dictionaries, and some basic Python modules like the random module, here are some Python projects with source code for beginners for you:
+
+Create Acronyms using Python
+Alarm Clock with Python
+Email Slicer with Python
+Story Generator with Python
+Generate Password with Python
+Play Rock, Paper, and Scissors with Python
+Dice Roll Simulator
+QR Code Generator
+Animal Quiz Game
+Print Coloured Text
+BMI Calculator
+Fahrenheit to Celcius Converter
+Taking Multiple User Inputs
+Convert Roman Numbers to Decimals
